@@ -8,7 +8,8 @@ Become a Peer Reviewer Using Publons
 
 
 ## Publons PeerReview Module
-[Introduction to Publons and Peer Review](./Publons-PeerReview-Module 1 - Slides.pdf)
+* [Introduction to Publons and Peer Review](./Publons-PeerReview-Module%201%20-%20Slides.pdf)
+
 
 ## Review Templates
 * [Review Template Word](Review-Template.pdf)
